@@ -5,6 +5,8 @@ using UnityEngine;
 //libaryservices
 using UtilityLibraries; 
 
+using Content4API.Scripts;
+
 public class Main : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -12,6 +14,10 @@ public class Main : MonoBehaviour
     {
         string? input = "Hei";
         Debug.Log(input.StartsWithUpper());
+
+        TurnaroundPlayer.OnePlay(); 
+        ScoreBoard.ForOneMore();
+        
     }
 
     // Update is called once per frame
