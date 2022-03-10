@@ -10,7 +10,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdlSCdNti9Q4IQoeXXCjT5eN7n4cBCo9dEIGg26
 2. It is standard to create a folder called plugins, this is where the library files should be located.
 4. To use the library go to connectAPI/Assets/plugins in the repository, and add them to your prosjekt/pluggins folder.
 
-## API :warning: ### not finished, not ready for use
+## API :warning: **not finished, not ready for use**
 
 
 ### TurnaroundPlayer (class)
