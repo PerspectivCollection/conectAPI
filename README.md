@@ -15,7 +15,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdlSCdNti9Q4IQoeXXCjT5eN7n4cBCo9dEIGg26
 
 ### TurnaroundPlayer (class)
 - OnePlay()
-this is to 
 - MovePlayer()
 - ContinuePlayer()
 - ResetPlayer()
@@ -26,11 +25,15 @@ this is to
 - MovePlayerPiece()
 - DeleyPlayerPiece()
 
-### ScoreBoard (class)
+### Table (class)
+- SetRoute()
+
+### ScoreBoard
 - ForOneMore()
+- ShowScore()
+- ListScores()
 
-
-
-
-
-### nei
+### CameraMoveMent
+- CameraMoveReact()
+- CameraMoveCircle()
+- CameraMoveTriangilare()
