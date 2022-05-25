@@ -12,11 +12,15 @@ public class Main : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        string? input = "Hei";
+        string input = "Hei";
         Debug.Log(input.StartsWithUpper());
 
-        TurnaroundPlayer.OnePlay(); 
-        ScoreBoard.ForOneMore();
+        TurnaroundPlayer somO = new TurnaroundPlayer();
+        somO.OnePlay(); 
+        // ScoreBoard.ForOneMore();
+
+        Avatar avatarO = new Avatar();
+        Debug.Log(avatarO);
         
     }
 

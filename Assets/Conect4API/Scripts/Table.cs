@@ -5,8 +5,8 @@ using UnityEngine;
 namespace Content4API.Scripts{
 public class Table{
 
-    public SetRoute(){
-        Debug.Log("SetRoute")
+    public void SetRoute(){
+        Debug.Log("SetRoute");
     } 
     }
 }

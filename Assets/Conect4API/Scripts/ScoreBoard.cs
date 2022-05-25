@@ -5,15 +5,16 @@ using UnityEngine;
 namespace Content4API.Scripts{
     public class ScoreBoard{
 
-        public ForOneMore(){
-         Debug.Log("ForOneMore");
-        }
+        // public ForOneMore(){
+        //  Debug.Log("ForOneMore");
+        // }
 
-        public ShowScore(){
-            Debug.Log("ScoreBoard")
-        }
+        // public ShowScore(){
+        //     Debug.Log("ScoreBoard");
+        // }
 
-        public ListScores(){
-            Debug.Log("ListScores")
-        }
+        // public ListScores(){
+        //     Debug.Log("ListScores");
+        // }
+}
 }
