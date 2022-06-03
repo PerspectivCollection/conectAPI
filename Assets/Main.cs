@@ -19,15 +19,17 @@ public class Main : MonoBehaviour
         somO.OnePlay(); 
         // ScoreBoard.ForOneMore();
 
-        Avatar avatarO = new Avatar();
-        Debug.Log(avatarO);
+        // Avatar avatarO = new Avatar();
+        // Debug.Log(avatarO);
+
+
+        // GameObject Text_intro; 
         
     }
 
     // Update is called once per frame
     void Update()
     {
-    
     }
 
     private void FixedUpdate()
