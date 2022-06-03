@@ -14,8 +14,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSdlSCdNti9Q4IQoeXXCjT5eN7n4cBCo9dEIGg26
 
 go to senario1 -> [Assets/Conect4API/Scripts/scene1_test_game.meta](https://github.com/PerspectivCollection/conectAPI/tree/master/Assets/Conect4API/Scripts/senario1)
 
-| Method  | Description |
+
+
+| Class | Description |
+| ------------- | ------------- |
+| property | Description |
+|  |  |
+| ------------- | ------------- |
+| Method  |  |
 | ------------- | ------------- |
 | Iteratrboard  | iterat a list of type matrix  |
 | FindIndexEmty  | iterate to a indeks of desided x and y is set, set 1 if list index is 0 |
-| |
+
