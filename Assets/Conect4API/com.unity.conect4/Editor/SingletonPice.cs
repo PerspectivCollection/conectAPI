@@ -3,9 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SingletonCreatePice
-
-{
+namespace Conect4{
+    
 // <summary>
 //
 // </summary>
@@ -31,13 +30,13 @@ namespace SingletonCreatePice
                     // If there is no singleton object in the scene, we have to add one
                     if (instance == null)
                     {
-                        // GameObject obj = new GameObject("Unity Singleton");
-                        // instance = obj.AddComponent<SingletonPice>();
+                        GameObject obj = new GameObject("Unity Singleton");
+                        instance = obj.AddComponent<SingletonPice>();
 
-                        SpriteRenderer obj = new SpriteRenderer
+                        // SpriteRenderer obj = new SpriteRenderer;
 
                         //Fetch the SpriteRenderer from the GameObject
-                        instance = obj.GetComponent<SpriteRenderer>();
+                        // instance = obj.GetComponent<SpriteRenderer>();
                         //Set the GameObject's Color quickly to a set Color (blue)
                         // instance.color = Color.blue;
 

@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Content4API.Scripts {
+namespace Content4API.Scripts 
+{
 
 public class TurnaroundPlayer{
     public void OnePlay(){

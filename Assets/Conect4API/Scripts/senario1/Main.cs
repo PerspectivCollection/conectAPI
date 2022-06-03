@@ -3,27 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //libaryservices
-using SingletonCreatePice;
-
+using Conect4;
 
 public class Main : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-        SingletonPice instance  = SingletonPice.Instance;
+    // // Start is called before the first frame update
+    // void Start()
+    // {
+    //     _boardType Conect4 = new Conect4();
 
-        instance.TestSingleton();
-    }
+    //     _PiceRed add_pice = Conect4.PutPiceInPlace(2, 4, new List<Pice>());
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
+    //     PiceInPlace(add_pice);
+    // }
 
-    private void FixedUpdate()
-    {
-        
-    }
+    // private void PiceInPlace(_PiceRed x){
+    //     if(x == 0){
+    //         Debug.Log("this place is taken");
+    //     }
+    //     else {
+    //         Debug.Log("adde a pice as soon ther is Pice is added");
+    //     }
+    // }
+
 }
+

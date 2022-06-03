@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Content4API.Scripts{
-public class Table{
+namespace Conect4{
+public class _BoardFactory{
 
     public void SetRoute(int x, int y){
         Debug.Log("SetRoute");
