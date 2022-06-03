@@ -20,7 +20,7 @@ package!-> https://github.com/PerspectivCollection/conectAPI/tree/master/Assets/
 | Class | Description |
 | - | - |
 | - | - |
-| property | Description |
+| property | - |
 | - | - |
 | Method  | - |
 | - | - |
