@@ -12,33 +12,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSdlSCdNti9Q4IQoeXXCjT5eN7n4cBCo9dEIGg26
 
 ## API :warning: _not finished, not ready for use_
 
-
-### TurnaroundPlayer (class)
-- OnePlay()
-- MovePlayer()
-- ContinuePlayer()
-- ResetPlayer()
-- ContinuePlayer()
-- ReversPlayer()
-- ChoiceOfPlayer()
-- DropPlayerPiece()
-- MovePlayerPiece()
-- DeleyPlayerPiece()
-
-### Table (class)
-- SetRoute()
-
-### ScoreBoard (class)
-- ForOneMore()
-- ShowScore()
-- ListScores()
-
-### CameraMoveMent (class)
-- CameraMoveReact()
-- CameraMoveCircle()
-- CameraMoveTriangilare()
+go to senario1 -> [Assets/Conect4API/Scripts/scene1_test_game.meta](https://github.com/PerspectivCollection/conectAPI/tree/master/Assets/Conect4API/Scripts/senario1)
 
 | Method  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Iteratrboard  | iterat a list of type matrix  |
+| FindIndexEmty  | iterate to a indeks of desided x and y is set, set 1 if list index is 0 |
+| |
