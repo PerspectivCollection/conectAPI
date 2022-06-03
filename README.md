@@ -17,12 +17,10 @@ go to senario1 -> [Assets/Conect4API/Scripts/scene1_test_game.meta](https://gith
 
 
 | Class | Description |
-| ------------- | ------------- |
+|  |  |
 | property | Description |
 |  |  |
-| ------------- | ------------- |
 | Method  |  |
-| ------------- | ------------- |
 | Iteratrboard  | iterat a list of type matrix  |
 | FindIndexEmty  | iterate to a indeks of desided x and y is set, set 1 if list index is 0 |
 
