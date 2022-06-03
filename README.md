@@ -37,3 +37,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSdlSCdNti9Q4IQoeXXCjT5eN7n4cBCo9dEIGg26
 - CameraMoveReact()
 - CameraMoveCircle()
 - CameraMoveTriangilare()
+
+| Method  | Description |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
