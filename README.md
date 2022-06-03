@@ -12,8 +12,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdlSCdNti9Q4IQoeXXCjT5eN7n4cBCo9dEIGg26
 
 ## API :warning: _not finished, not ready for use_
 
-go to senario1 -> [Assets/Conect4API/Scripts/scene1_test_game.meta](https://github.com/PerspectivCollection/conectAPI/tree/master/Assets/Conect4API/Scripts/senario1)
+senario1 -> [Assets/Conect4API/Scripts/scene1_test_game.meta](https://github.com/PerspectivCollection/conectAPI/tree/master/Assets/Conect4API/Scripts/senario1)
 
+pakke -> https://github.com/PerspectivCollection/conectAPI/tree/master/Assets/Conect4API/com.unity.conect4
 
 
 | Class | Description |
